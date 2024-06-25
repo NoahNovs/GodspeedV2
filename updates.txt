@@ -1,0 +1,5 @@
+6/25:
+
+set up own venv
+then install dependencies using this:
+    -python -m pip install -r requirements.txt
